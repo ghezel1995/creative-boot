@@ -1,5 +1,5 @@
 # creative-boot
-This site made with HTML,CSS,Bootstrap
-this is pure bootstrap and without any js code
-A simple and easy site for develop...
-Enjoy.
+This site is made with HTML, CSS, and Bootstrap.
+It is built entirely with Bootstrap and contains no JavaScript code.
+A simple and easy site for development.
+Enjoy!
